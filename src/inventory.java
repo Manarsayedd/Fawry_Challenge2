@@ -1,5 +1,4 @@
 import java.util.ArrayList;
-import java.util.Date;
 import java.util.List;
 import java.time.Year;
 import java.util.Iterator;
@@ -16,7 +15,7 @@ public class inventory {
     public List removeBook(int maxyear)
     {
         Iterator<Book>iterator = books.iterator();
-        List remove = new ArrayList<Book>();
+        List<Book> remove = new ArrayList<>();
         int currentdate = Year.now().getValue();
         while(iterator.hasNext()){
             Book b = iterator.next();
