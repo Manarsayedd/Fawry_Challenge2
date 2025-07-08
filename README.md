@@ -23,7 +23,7 @@ Quantum Bookstore is a Java-based application that simulates an online bookstore
 ## 📷 Screenshots
 
 ### ✅ Adding and Buying Books
-![Add and Buy](([(https://github.com/Manarsayedd/Fawry_Challenge2/blob/main/screenshots/Screenshot%202025-07-09%20020219.png)]))
+![Add and Buy](([(screenshots/Screenshot%202025-07-09%20020219.png)]))
 
 ### 🗑️ Removing Outdated Books
 ![Remove](screenshots/remove_outdated.png)
